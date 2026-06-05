@@ -131,21 +131,3 @@ This repository is preserved as thesis research code rather than a production-re
 4. Updating local paths in `src/utils.py`.
 5. Running the experiment scripts with the same bitrate targets and training parameters.
 
-## Suggested repository name
-
-A clear name for this repository would be:
-
-```text
-x264-qp-optimizer
-```
-
-Alternative names:
-
-- `h264-qp-optimization`
-- `video-encoding-qp-optimization`
-- `evolutionary-video-encoding`
-- `ga-video-rate-control`
-- `x264-rate-distortion-optimization`
-- `h264-evolutionary-rate-control`
-
-For a portfolio-oriented GitHub repository, `x264-qp-optimizer` is short, searchable, and accurately describes the main technical contribution.
